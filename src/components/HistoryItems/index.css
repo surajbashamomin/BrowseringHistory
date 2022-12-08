@@ -1,0 +1,37 @@
+.list-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.time {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  margin-right: 20px;
+}
+.logo-image {
+  width: 20px;
+  margin-right: 20px;
+}
+.paragraph {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  margin-right: 20px;
+}
+.domain-paragraph {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+.delete-image {
+  width: 15px;
+}
